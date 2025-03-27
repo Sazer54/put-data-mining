@@ -3,4 +3,4 @@ The project associated with the Data Mining course at the Poznań University of 
 
 Collaborators:
  - Szymon Skowroński
- - Samuel Lewi Paszyński
+ - Samuel Levi Paszyński
