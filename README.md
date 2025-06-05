@@ -15,7 +15,7 @@ pip install streamlit nltk scikit-learn pickle
 
 ## Preparation
 
-1. Make sure the `models/` directory contains the following files:
+1. Make sure the `models/` directory contains the following files (you can download the testing versions from: https://drive.google.com/drive/folders/1Gq-zlNypqq9DlsNXHx8MOhn_uuZ2bxmS?usp=sharing:
    - `nb_classifier.pkl`
    - `svm_classifier.pkl`
    - `rf_classifier.pkl`
