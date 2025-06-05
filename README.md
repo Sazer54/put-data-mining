@@ -10,7 +10,7 @@ A web application for classifying tweets as BOT or HUMAN using a selected classi
 
 You can install the required libraries with:
 ```
-pip install streamlit nltk scikit-learn
+pip install streamlit nltk scikit-learn pickle
 ```
 
 ## Preparation
