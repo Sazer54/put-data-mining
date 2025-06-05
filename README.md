@@ -43,7 +43,7 @@ The application will open in your browser.
 ---
 
 **Note:**  
-If you encounter errors related to missing NLTK resources, make sure you have an internet connection during the first run.
+If you want to train your own models on your own dataset, please visit /notebooks
 
 # put-data-mining
 The project associated with the Data Mining course at the Poznań University of Technology
